@@ -1,0 +1,25 @@
+[es]
+<b><color=#FFB85A>ALFA 0.1 · 12 de noviembre de 2026</color></b>
+
+• <b>Nuevo nombre:</b> el mundo ahora se llama VoidTrain Rapture.
+• <b>Mesas en casillas:</b> hasta 12 mesas en tu vagón, colocadas donde quieras desde CONSTRUIR.
+• <b>Supervivencia:</b> el hambre baja con el tiempo. Come desde la mochila tocando un alimento.
+• <b>El depredador acecha:</b> merodea lejos, se para a mirarte y embiste. Dispárale cuando se quede quieto.
+• <b>Pesca:</b> apunta el gancho a los bancos de peces para conseguir comida.
+• <b>Mochila por pilas:</b> 24 objetos distintos, 64 de cada uno.
+• <b>Recompensa diaria:</b> entra cada día y recibe materiales (ciclo de 7 días).
+
+Gracias por probar la alfa. ¡Actualizaciones cada semana!
+
+[en]
+<b><color=#FFB85A>ALPHA 0.1 · November 12, 2026</color></b>
+
+• <b>New name:</b> the world is now called VoidTrain Rapture.
+• <b>Tables on tiles:</b> up to 12 workbenches on your wagon, placed anywhere from BUILD.
+• <b>Survival:</b> hunger drops over time. Eat from your backpack by tapping a food.
+• <b>The predator stalks:</b> it circles far away, stops to stare and charges. Shoot it while it holds still.
+• <b>Fishing:</b> aim the hook at fish schools to get food.
+• <b>Stacked backpack:</b> 24 different items, 64 of each.
+• <b>Daily reward:</b> log in every day for materials (7-day cycle).
+
+Thanks for trying the alpha. Updates every week!
